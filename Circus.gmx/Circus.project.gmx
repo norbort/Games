@@ -120,9 +120,6 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_mainmenu</room>
-    <room>rooms\rm_intro</room>
-    <room>rooms\rm_outside</room>
-    <room>rooms\story</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
